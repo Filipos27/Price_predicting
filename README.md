@@ -8,3 +8,6 @@ In this project we used Linear Regression model to predict house prices in Benga
 3. Data visualization (matplotlib)
 4. Building model (sckit-learn)
 5. Export model to pickle file (pickle)
+
+## Results
+![result](https://user-images.githubusercontent.com/77289083/110806437-5cd8bf00-8282-11eb-9a49-25c7afd8af7f.png)
